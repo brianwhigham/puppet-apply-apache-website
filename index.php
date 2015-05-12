@@ -8,7 +8,7 @@
     <meta name="author" content="Brian Whigham">
 
     <!-- Le styles -->
-    <link href="../assets/css/bootstrap.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 20px;
@@ -116,7 +116,7 @@
       </div>
       <!-- Jumbotron -->
       <div class="jumbotron">
-        <h1>Marketing stuff!</h1>
+        <h1>Bam! See how fast?</h1>
         <p class="lead">Stop Fussing</p>
         <a class="btn btn-large btn-success" href="http://www.usg.edu/peachnet/cloud/vdc">Get started today</a>
       </div>
