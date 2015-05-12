@@ -34,7 +34,7 @@
           <a href="http://doc.the.usg.edu/virtualdatacenter/guides/">See how easy it is to get your cloud service going.</a>
           <a href="https://www.hipchat.com/gwJ63S7in">Chat with us right now.</a>
         </font>
-        Your browser, <?php =$_SERVER["HTTP_USER_AGENT"]; ?> is supported here.
+        Your browser, <?php echo $_SERVER["HTTP_USER_AGENT"]; ?> is supported here.
       </p>
     </center>
   </body>
