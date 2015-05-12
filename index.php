@@ -8,6 +8,7 @@
     <meta name="author" content="Brian Whigham">
 
     <!-- Le styles -->
+    <link href="assets/css/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
     <style type="text/css">
       body {
