@@ -118,9 +118,9 @@
       <div class="jumbotron">
         <h1>Look At Me</h1>
         <h2>A Beautifully Load-balanced Service</h2>
-        <p>This is server <?php echo $_SERVER['hostname'];?></p>
-        <p class="lead">Stop Fussing</p>
-        <a class="btn btn-large btn-success" href="http://www.usg.edu/peachnet/cloud/vdc">Get started today</a>
+        <p>This is backend server <?php echo $_SERVER['SERVER_ADDR'];?></p>
+        <p class="lead">Stop Fussing With Hardware</p>
+        <a class="btn btn-large btn-success" href="http://www.usg.edu/peachnet/cloud/vdc">Get into the cloud today</a>
       </div>
 
       <hr>
