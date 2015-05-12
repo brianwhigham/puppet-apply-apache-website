@@ -8,7 +8,7 @@
     <meta name="author" content="Brian Whigham">
 
     <!-- Le styles -->
-    <link href="bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 20px;
